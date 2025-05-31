@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Neople>
+  <Nexon>
+    <Real>
+      <LauncherDialog.Caption>네오플 던전앤파이터</LauncherDialog.Caption>
+      <LauncherDialog.FileSize>파일 크기</LauncherDialog.FileSize>
+      <LauncherDialog.Speed>속도</LauncherDialog.Speed>
+      <LauncherDialog.Cancel>취소</LauncherDialog.Cancel>
+
+      <PrepareDialog.Caption>설치 준비중 입니다.</PrepareDialog.Caption>
+      <PrepareDialog.InstallLocation>설치 위치</PrepareDialog.InstallLocation>
+      <PrepareDialog.SelectFolder>폴더 선택</PrepareDialog.SelectFolder>
+      <PrepareDialog.SetStartPage>https://df.nexon.com을 인터넷 시작페이지로 설정</PrepareDialog.SetStartPage>
+      <PrepareDialog.CreateShortCut>던전앤파이터 바로가기 만듦</PrepareDialog.CreateShortCut>
+      <PrepareDialog.StartInstall>설치</PrepareDialog.StartInstall>
+      <PrepareDialog.Cancel>취소</PrepareDialog.Cancel>
+
+      <AnalyzeDialog.Caption>설치된 파일 분석</AnalyzeDialog.Caption>
+      <AnalyzeDialog.AnalyzingFile>파일 분석중...</AnalyzeDialog.AnalyzingFile>
+      <AnalyzeDialog.Wait>기다려 주세요.</AnalyzeDialog.Wait>
+
+      <MsgBox.Caption>던전앤파이터</MsgBox.Caption>
+      <MsgBox.MakeNewDirectory>새 디렉토리를 만드시겠습니까?</MsgBox.MakeNewDirectory>
+      <MsgBox.WrongPath>잘못된 Path 입니다.</MsgBox.WrongPath>
+      <MsgBox.FailedDownloadLauncher>런처를 받는데 실패했습니다.</MsgBox.FailedDownloadLauncher>
+      <MsgBox.FailedDownloadInstaller>인스톨러를 받는데 실패했습니다.</MsgBox.FailedDownloadInstaller>
+
+      <DisplayName>던전앤파이터</DisplayName>
+      <IconFileName>DnF.ico</IconFileName>
+      <PackageListFileName>package.lst</PackageListFileName>
+      <RegistryName>DNF</RegistryName>
+      <DefaultInstallPath>DNF</DefaultInstallPath>
+      <VendorName>Candybar</VendorName>
+      <ExecuteFileName>BB.exe</ExecuteFileName>
+      <LauncherFileName>NeopleLauncher.exe</LauncherFileName>
+      <LauncherChecksum>250, 224, 202, 211, 51, 177, 100, 163, 114, 176, 175, 15, 14, 179, 99, 73, 0, 98, 57, 123, 131, 58, 222, 243, 249, 20, 243, 215, 205, 146, 59, 219</LauncherChecksum>
+      <InstallerChecksum>88, 46, 112, 182, 187, 211, 3, 161, 173, 118, 185, 173, 211, 162, 214, 243, 121, 227, 89, 7, 167, 24, 192, 103, 136, 168, 21, 97, 93, 62, 92, 247</InstallerChecksum>
+      <BannerURL>https://df.nexon.com/FRM/game/client_banner.php</BannerURL>
+      <LauncherURL>https://df.nexon.com/FRM/game/launcher_banner.php</LauncherURL>
+      <IEStartPageURL>https://df.nexon.com</IEStartPageURL>
+      <SourceURL>http://d-fighter.dn.nexoncdn.co.kr/samsungdnf/neople/dnf_hg/</SourceURL>
+      <ServerIP>000.000.000.000</ServerIP>
+      <ServerPort>0</ServerPort>
+      <ChangingIEStartPageCheckboxEnable>true</ChangingIEStartPageCheckboxEnable>
+      <ScreenMode>1</ScreenMode>
+
+      <BuildInfo>2</BuildInfo>
+      <WebErrorCheck>0</WebErrorCheck>
+      <PackageListCheckSum></PackageListCheckSum>
+
+        <PreDownloadPage>1</PreDownloadPage>
+        <ForcePreDown>1</ForcePreDown>
+
+        <OffMapa>1</OffMapa>
+
+      <CreateShortcutEnable>true</CreateShortcutEnable>
+      <DoRTPatch>1</DoRTPatch>
+      <WebNo>30</WebNo>
+      <InstallerStarterURL>http://d-fighter.dn.nexoncdn.co.kr/samsungdnf/neople/plugin/</InstallerStarterURL>
+      <InstallerStarterFileName>NeopleInstallerStarter.exe</InstallerStarterFileName>
+      <InstallerFileName>NeopleIns.exe</InstallerFileName>
+      <InstallerURL>http://d-fighter.dn.nexoncdn.co.kr/samsungdnf/neople/dnf_hg/new/</InstallerURL>
+    </Real>
+  </Nexon>
+</Neople>
