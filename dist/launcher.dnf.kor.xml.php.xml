@@ -55,7 +55,7 @@
 
       <CreateShortcutEnable>true</CreateShortcutEnable>
       <DoRTPatch>1</DoRTPatch>
-      <WebNo>30</WebNo>
+      <WebNo>17</WebNo>
       <InstallerStarterURL>http://d-fighter.dn.nexoncdn.co.kr/samsungdnf/neople/plugin/</InstallerStarterURL>
       <InstallerStarterFileName>NeopleInstallerStarter.exe</InstallerStarterFileName>
       <InstallerFileName>NeopleIns.exe</InstallerFileName>
